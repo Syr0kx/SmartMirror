@@ -1,0 +1,28 @@
+c:\users\sven-\documents\visual studio 2015\Projects\SmartMirrow\SmartMirrow\bin\Debug\SmartMirrow.exe.config
+c:\users\sven-\documents\visual studio 2015\Projects\SmartMirrow\SmartMirrow\bin\Debug\SmartMirrow.exe
+c:\users\sven-\documents\visual studio 2015\Projects\SmartMirrow\SmartMirrow\bin\Debug\SmartMirrow.pdb
+c:\users\sven-\documents\visual studio 2015\Projects\SmartMirrow\SmartMirrow\obj\Debug\SmartMirrow.csprojResolveAssemblyReference.cache
+c:\users\sven-\documents\visual studio 2015\Projects\SmartMirrow\SmartMirrow\obj\Debug\MainWindow.g.cs
+c:\users\sven-\documents\visual studio 2015\Projects\SmartMirrow\SmartMirrow\obj\Debug\App.g.cs
+c:\users\sven-\documents\visual studio 2015\Projects\SmartMirrow\SmartMirrow\obj\Debug\SmartMirrow_MarkupCompile.cache
+c:\users\sven-\documents\visual studio 2015\Projects\SmartMirrow\SmartMirrow\obj\Debug\SmartMirrow_MarkupCompile.lref
+c:\users\sven-\documents\visual studio 2015\Projects\SmartMirrow\SmartMirrow\obj\Debug\MainWindow.baml
+c:\users\sven-\documents\visual studio 2015\Projects\SmartMirrow\SmartMirrow\obj\Debug\SmartMirrow.g.resources
+c:\users\sven-\documents\visual studio 2015\Projects\SmartMirrow\SmartMirrow\obj\Debug\SmartMirrow.Properties.Resources.resources
+c:\users\sven-\documents\visual studio 2015\Projects\SmartMirrow\SmartMirrow\obj\Debug\SmartMirrow.csproj.GenerateResource.Cache
+c:\users\sven-\documents\visual studio 2015\Projects\SmartMirrow\SmartMirrow\obj\Debug\SmartMirrow.exe
+c:\users\sven-\documents\visual studio 2015\Projects\SmartMirrow\SmartMirrow\obj\Debug\SmartMirrow.pdb
+C:\Users\sven-\Desktop\SmartMirrow\SmartMirrow\bin\Debug\SmartMirrow.exe.config
+C:\Users\sven-\Desktop\SmartMirrow\SmartMirrow\obj\Debug\SmartMirrow.exe
+C:\Users\sven-\Desktop\SmartMirrow\SmartMirrow\obj\Debug\SmartMirrow.pdb
+C:\Users\sven-\Desktop\SmartMirrow\SmartMirrow\bin\Debug\SmartMirrow.exe
+C:\Users\sven-\Desktop\SmartMirrow\SmartMirrow\bin\Debug\SmartMirrow.pdb
+C:\Users\sven-\Desktop\SmartMirrow\SmartMirrow\obj\Debug\SmartMirrow.csprojResolveAssemblyReference.cache
+C:\Users\sven-\Desktop\SmartMirrow\SmartMirrow\obj\Debug\MainWindow.g.cs
+C:\Users\sven-\Desktop\SmartMirrow\SmartMirrow\obj\Debug\App.g.cs
+C:\Users\sven-\Desktop\SmartMirrow\SmartMirrow\obj\Debug\SmartMirrow_MarkupCompile.cache
+C:\Users\sven-\Desktop\SmartMirrow\SmartMirrow\obj\Debug\SmartMirrow_MarkupCompile.lref
+C:\Users\sven-\Desktop\SmartMirrow\SmartMirrow\obj\Debug\MainWindow.baml
+C:\Users\sven-\Desktop\SmartMirrow\SmartMirrow\obj\Debug\SmartMirrow.g.resources
+C:\Users\sven-\Desktop\SmartMirrow\SmartMirrow\obj\Debug\SmartMirrow.Properties.Resources.resources
+C:\Users\sven-\Desktop\SmartMirrow\SmartMirrow\obj\Debug\SmartMirrow.csproj.GenerateResource.Cache
